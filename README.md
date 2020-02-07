@@ -1,2 +1,2 @@
 # Data-Structures
-Rutgers CS102
+Projects for Rutgers CS102
